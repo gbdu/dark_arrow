@@ -1,13 +1,19 @@
-This is a modified version of numix , visit them at [Numix Project](http://numixproject.org).
-
-
-It's meant to be used for xfce, right now, it looks like this:
 
 ![image](screenshot.png)
-### Manual installation
+
+This is a modified version of numix , visit them at [Numix Project](http://numixproject.org).
+
+### Easy installation
+```
+cd .config
+git clone https://github.com/gbdu/darkarrow.git
+```
+
+Then go through your window manager and select the new theme that pops up "darkarrow"
+
+Or, for all users:
 
 Extract the zip file to the themes directory i.e. `/usr/share/themes/`
-
 To set the theme in Gnome, run the following commands in Terminal,
 
 ```
