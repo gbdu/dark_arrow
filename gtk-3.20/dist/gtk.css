@@ -1260,7 +1260,7 @@ actionbar > revealer > box {
   .selection-mode.header-bar .dim-label, .selection-mode.header-bar label.separator, .selection-menu.button .selection-mode.header-bar .dim-label, .selection-menu.button .selection-mode.header-bar label.separator, .selection-mode.toolbar .dim-label, .selection-mode.toolbar label.separator, .selection-menu.button .selection-mode.toolbar .dim-label, .selection-menu.button .selection-mode.toolbar label.separator {
     color: #cc1a11; }
 .selection-mode.toolbar {
-  padding: 5px; }
+  padding: 2px; }
 
 /**********
  ! Calendar
